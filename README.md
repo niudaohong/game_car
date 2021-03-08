@@ -6,4 +6,4 @@
 最终也有```pyinstaller```将其转换成exe格式版本
 
 界面：
-![Uploading U`]6O3ZH)69[Q(90~~R{`2U.png…]()   
+![image](https://github.com/niudaohong/game_car/blob/main/1.jpg)
