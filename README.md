@@ -9,4 +9,4 @@
 ![image](https://github.com/niudaohong/game_car/blob/main/1.jpg)
 
 界面：    
-![image](https://github.com/niudaohong/game_car/blob/main/U%60%5D6O3ZH)69%5BQ(90~~R%7B%602U.png)
+![image](https://github.com/niudaohong/game_car/blob/main/interface.png)
